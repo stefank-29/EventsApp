@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">rs.raf.projekatjun.stefan_karaferovic_rn7719</string>
+    <string name="add_event">Add event</string>
+    <string name="events_app">Events app</string>
+    <string name="event_name">Event name</string>
+    <string name="desc">Description</string>
+    <string name="check_time_for_location">Check time for location</string>
+    <string name="set_date">Set date</string>
+    <string name="set_time">Set time</string>
+    <string name="url">Url</string>
+    <string name="save_event">Save event</string>
+</resources>
